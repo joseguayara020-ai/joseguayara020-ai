@@ -22,5 +22,5 @@ Soy aprendiz del Técnico en Programación de Software del SENA.
 Construir proyectos que evidencien mi proceso de aprendizaje y fortalecer mi perfil como desarrollador.
 
 ## Proyectos destacados
-- [Recetas](https://github.com/TuUsuario/tu-repositorio)
+- [Recetas](https://github.com/joseguayara020-ai/recetas.git)
 -
