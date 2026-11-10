@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Jose luis guayara 
 
-<!--
-**joseguayara020-ai/joseguayara020-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
+Soy aprendiz del Técnico en Programación de Software del SENA.
 
-Here are some ideas to get you started:
+## Tecnologías que estoy aprendiendo
+- HTML
+- CSS
+- JavaScript
+- PHP
+- APIs REST
+- Git
+- GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actualmente estoy trabajando en
+- Desarrollo web
+- Consumo y creación de APIs
+- Lógica de programación
+- Control de versiones
+
+## Objetivo
+Construir proyectos que evidencien mi proceso de aprendizaje y fortalecer mi perfil como desarrollador.
+
+## Proyectos destacados
+- [Recetas](https://github.com/TuUsuario/tu-repositorio)
+-
